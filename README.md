@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukhammadjcn
-- 👀 I’m interested in making Amazing websites and viewing beautiful girls
+- 👀 I’m interested in making Amazing websites and learn trending features
 - 🌱 I’m currently learning Vue.js and Nuxt.js
 - 💞️ I’m looking to collaborate on IQ education Team
 - 📫 How to reach me tg.me/mukhammadjcn
