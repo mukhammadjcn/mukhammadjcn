@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mukhammadjcn
-- 👀 I’m interested in making Amazing websites and learn trending features
-- 🌱 I’m currently learning Vue.js and Nuxt.js
-- 💞️ I’m looking to collaborate on IQ education Team
-- 📫 How to reach me tg.me/mukhammadjcn
+# Hello, from Mukhammadjon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=mukhammadjcn&theme=tokyonight&show_icons=true" alt="Mukhammdjon's github stats" style="max-width:100%;"></p>
+<!--   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadjcn&theme=tokyonight&show_icons=true&layout=compact" alt="Top Langs" style="max-width:100%;"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukhammadjcn&theme=tokyonight&show_icons=true&repo=vueComponent" alt="Top Langs" style="max-width:100%;"></p> -->
+</div>
 
 <!---
 mukhammadjcn/mukhammadjcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
