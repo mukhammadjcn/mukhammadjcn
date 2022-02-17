@@ -3,7 +3,7 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=mukhammadjcn&theme=tokyonight&show_icons=true" alt="Mukhammdjon's github stats" style="max-width:100%;"></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadjcn&theme=tokyonight&show_icons=true&layout=compact" alt="Top Langs" style="max-width:100%;"></p>
 <!--   <p><img src="https://github-readme-stats.vercel.app/api/pin/?username=mukhammadjcn&theme=tokyonight&show_icons=true&repo=vueComponent" alt="Top Langs" style="max-width:100%;"></p> -->
-  <p><img src="URL:https://www.codewars.com/users/mukhammadjcn/badges/large" alt="Codewars" style="max-width:100%;"></p>
+  <p><img src="https://www.codewars.com/users/mukhammadjcn/badges/large" alt="Codewars" style="max-width:100%;"></p>
 </div>
 
 <!---
